@@ -1,1 +1,1 @@
-# VirusGame
+# VirusGame Bot
